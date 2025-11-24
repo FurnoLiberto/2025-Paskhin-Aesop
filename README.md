@@ -22,13 +22,14 @@
 3. Генерация: `python src/inference.py`
 
 ## Результаты обучения
-Обучение проводилось в течение 5 эпох.
+Обучение проводилось в течение 20 эпох.
 Мониторинг осуществлялся через TensorBoard.
 
-<img width="891" height="427" alt="изображение" src="https://github.com/user-attachments/assets/68a5d400-0e92-4d94-beaa-2ca36352ded9" />
+<img width="872" height="463" alt="изображение" src="https://github.com/user-attachments/assets/6ae453af-deda-46ee-8d30-5aeeef1e908c" />
 
-Средний Loss: 4.8829
+<img width="873" height="429" alt="изображение" src="https://github.com/user-attachments/assets/ffe682c2-a3fa-4ca2-b3d9-bf808083de99" />
 
+Средний Loss(train): 5.47
 ### Выводы
 Модель показывает снижение функции потерь (Loss), что говорит об успешном обучении. 
 
